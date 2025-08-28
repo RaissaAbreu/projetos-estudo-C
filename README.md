@@ -1,4 +1,4 @@
-# 🔵 Estudos em Lingaugem C  
+# 🔵 Estudos em Linguagem C  
 
 Este repositório contém meus códigos de estudo em **C**, desde fundamentos da linguagem até exercícios e pequenos projetos.  
 A ideia é registrar meu progresso na linguagem e manter exemplos práticos para consulta futura.  
@@ -26,6 +26,7 @@ Consolidar meu aprendizado em C por meio de exemplos práticos, exercícios e pe
    git clone https://github.com/RaissaAbreu/projetos-estudo-C.git
    
 2. Compile o arquivo desejado:
+
 
 gcc nome_do_arquivo.c -o programa
 
