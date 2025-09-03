@@ -1,3 +1,5 @@
+//verifica se a senha possui ao menos uma letra maiúscula, uma minúscula, um símbolo e um digito
+
 #include <stdio.h>
 #include <ctype.h>
 #include <stdbool.h>

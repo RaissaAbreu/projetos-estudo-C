@@ -1,3 +1,5 @@
+//calcula a população de ovelha em um determinado período de tempo com base em uma taxa de crescimento e decrescimento fixas
+
 #include <stdio.h>
 #include <stdlib.h>
 

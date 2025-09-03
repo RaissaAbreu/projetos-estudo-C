@@ -9,7 +9,7 @@ int main() {
     }
     
     printf("Tamanho do vetor: %lu", sizeof(vetor) / sizeof(vetor[0]));
-    printf("\nTamanho do inteiro: %lu\n", sizeof(vetor[0]));
+    
     
     vetor[i] = i * 2;
     return 0;
