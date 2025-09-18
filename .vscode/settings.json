@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "PAR_IMPAR.C": "cpp"
+        "PAR_IMPAR.C": "cpp",
+        "duplica.ponteiro.C": "cpp"
     }
 }
